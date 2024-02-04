@@ -1,0 +1,20 @@
+What Is GitHub?
+GitHub is a Git repository hosting service that provides a web-based graphical interface (GUI). It helps every team member work together on a project from anywhere, making it easy to collaborate. 
+
+GitHub is one place where project managers and developers coordinate, track, and update their work, so projects stay transparent and on schedule. The packages can be published privately, within the team, or publicly for the open-source community. Downloading packages from GitHub enables them to be used and reused. GitHub helps all team members stay on the same page and stay organized. Moderation tools, like issue and pull request locking, helps the team focus on the code.
+
+Next in this how Git works tutorial, let's look at the several commands used in Git.
+
+Different Commands in Git
+So far, in the how Git works tutorial you read all about Git and GitHub. Next in the how Git works tutorial comes Git commands. 
+
+Git config
+Git init
+Git add
+Git diff
+Git commit
+Git reset
+Git status
+Git merge
+Git push
+Git pull
