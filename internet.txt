@@ -1,0 +1,15 @@
+What Is the Internet?
+The Internet, sometimes called "the Net," for short, is a global network consisting of many networks which allow a user with a computer or similar device to interact with other computers. It's an autonomous, public, cooperative medium that's routinely accessed by millions of users to collect information, conduct transactions, or communicate with each other.
+
+The Internet connects millions of computers, mobile devices, servers, and websites around the world, letting users send and receive all manner of files (audio, text, video, image) and access resources such as apps and cloud services.
+
+How the Internet Works
+To function, the Internet relies on our existing public telecommunication networks. The Internet consists of two major parts: the network protocols and the hardware. The hardware is the easy part; it includes smartphones, computers, or whatever other device users employ to access the Internet, all categorized as clients or endpoints.
+
+Hardware also includes the devices used to store and process the information, known as servers, which hold the websites we visit. Furthermore, hardware covers the transmission lines and other technology used to link everything together, such as cell phone towers, satellites, fiber optics or cables, and routers.
+
+The other part of the Internet, the protocols, covers Transmission Control Protocol/Internet Protocol (TCP/IP), a suite of protocols that allow devices to communicate with each other. These servers are connected to the Internet by an Internet Service Provider, or ISP, and identified by a unique IP address. Each website has an easily remembered domain name, replacing the string of incomprehensible alphanumeric characters of the ISP string.
+
+After acquiring the IP address, the server searches for the domain name's IP address in a massive information directory known as a DNS server (Domain Name Server). Once the browser has the IP address, it passes on any requests to the correct server, which in turn processes the request and displays the website content the user's looking for.
+
+This process of transferring information between devices relies on packet switching. First, each computer connected to the Internet is given a unique IP address for identification purposes. Then, when one device wants to "talk" to another device, the data is transmitted over the Internet as a packet. Each packet has a port number assigned to it that connects it to the endpoint.
